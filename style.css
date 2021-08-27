@@ -1,0 +1,122 @@
+body{
+  font-size:3vw;
+}
+.header{
+  background-color: #E9ECEF;
+}
+.top{
+  background-color: #E9ECEF;
+
+}
+.marginclass{
+  margin-bottom: -30px;
+  width: 50px;
+  height: 50px;
+}
+
+/* for responsive image in desktop version */
+.custom-size{
+  width:100% !important;
+  max-width:200px !important;
+}
+.info img{
+  max-width: 100px !important;
+}
+
+.img-logo {
+    width: 65px;
+  }
+  .img-person {
+    margin-top: 100%;
+  }
+  .header h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 17px;
+  }
+  .header p {
+    font-size: 15px;
+  }
+  
+  .header .col-4 {
+    padding: 0px;
+  }
+  .header .col-8 {
+    padding-left: 0px;
+  }
+  .icon-round {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    display: block;
+  }
+  .round1 {
+    background: green;
+  }
+  .round2 {
+    background: yellow;
+  }
+  .round3 {
+    background: blue;
+  } */
+  
+  
+ 
+  
+
+  
+  /* ----- MODAL STYLE ----- */
+  .modal-content {
+    border-radius: 0;
+    border: none;
+  }
+  
+  .modal-header .img-logo {
+    position: relative;
+    top: 8px;
+  }
+  .modal-header {
+    border-bottom-color: #e9ecef;
+    background-color: #e9ecef;
+    height: 65px;
+  }
+  
+  .modal-body h3 {
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 25px;
+  }
+  .modal-body a {
+    color: #333;
+  }
+  
+  
+  .modal-dialog {
+    position: fixed;
+    width: auto;
+    margin: 0px;
+    pointer-events: none;
+    height: 100%;
+    background: white;
+  }
+
+  .question .row {
+    display: none;
+  }
+  .question .active {
+    display: block;
+  }
+  /* for responsive image in desktop */
+  .imgSize img{
+    width: 100px;
+  }
+  
+.col-3 img{
+  width:50px;
+}
+/* progress bar styles*/
+.progress{
+  height:22px !important;
+  
+  font-size: 16px !important;
+}
